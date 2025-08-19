@@ -1,0 +1,1 @@
+This is our final year project entitled "Phishing URL Detection using ML", where we have created a web application. There's an input bar in the web application which connects to the backend where ML algorithms are used to detect the URL.
